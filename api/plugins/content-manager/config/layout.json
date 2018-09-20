@@ -1,0 +1,22 @@
+{
+  "article": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "content": {
+        "appearance": ""
+      }
+    }
+  },
+  "post": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "content": {
+        "appearance": ""
+      }
+    }
+  }
+}
